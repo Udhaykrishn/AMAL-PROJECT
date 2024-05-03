@@ -1,0 +1,2 @@
+[22-Jul-2023 07:42:35 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 72
+[22-Jul-2023 07:42:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 75

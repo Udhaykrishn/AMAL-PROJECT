@@ -1,0 +1,141 @@
+[22-Jul-2023 05:01:00 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:01:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:01:49 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:01:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:02:06 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:02:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:09:10 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:09:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:09:10 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:09:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:09:16 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:09:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:37:31 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:37:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:13 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:13 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:14 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:14 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): Failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 05:48:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php:16
+Stack trace:
+#0 /home1/ccabs/public_html/test.ccabs.in/index.php(2): require_once()
+#1 {main}
+  thrown in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:11:57 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:11:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:11:57 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:11:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:12:05 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:12:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:16:19 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:16:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:16:31 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:16:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:16:57 UTC] PHP Fatal error:  Call to a member function setQuery() on null in /home1/ccabs/public_html/test.ccabs.in/theme/template.php on line 195
+[22-Jul-2023 06:17:21 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:17:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:17:31 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/user.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:17:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:17:47 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/user.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:17:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:19:00 UTC] PHP Warning:  require_once(/home1/ccabs/public_html/test.ccabs.in/marimar/includes/database.php): failed to open stream: No such file or directory in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:19:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/ccabs/public_html/test.ccabs.in/marimar/includes/database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/ccabs/public_html/test.ccabs.in/includes/initialize.php on line 16
+[22-Jul-2023 06:34:16 UTC] PHP Fatal error:  Call to undefined function addtocartt() in /home1/ccabs/public_html/test.ccabs.in/bookAroom.php on line 17
+[22-Jul-2023 06:36:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:36:04 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:36:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:36:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:36:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:36:33 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:40:00 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:40:00 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:40:00 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:41:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:41:04 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:41:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:41:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:41:59 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:41:59 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:42:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:42:23 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:42:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:43:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:43:27 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:43:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:44:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:44:01 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:44:01 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:48:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:48:10 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:48:10 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 06:59:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 06:59:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 06:59:33 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 07:00:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 07:00:23 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 07:00:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 07:03:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 07:03:32 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 07:03:32 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 07:22:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 07:22:38 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 07:22:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 08:18:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 08:18:41 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 08:18:41 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 08:21:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 08:21:32 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 08:21:32 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[22-Jul-2023 08:36:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[22-Jul-2023 08:36:42 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[22-Jul-2023 08:36:42 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[23-Jul-2023 14:20:49 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[23-Jul-2023 14:20:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[23-Jul-2023 14:20:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[23-Jul-2023 14:20:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[23-Jul-2023 14:20:52 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[23-Jul-2023 14:35:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[23-Jul-2023 14:35:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[23-Jul-2023 14:35:33 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
+[23-Jul-2023 15:39:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 40
+[23-Jul-2023 15:39:15 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 58
+[23-Jul-2023 15:39:15 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home1/ccabs/public_html/test.ccabs.in/includes/database.php on line 65
